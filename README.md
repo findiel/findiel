@@ -24,5 +24,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=findiel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 I've been looking at my public repos on GH, from the time I was learning coding, and it seems like the time is gone now, but has been described with code (a shity code, but I had fun). Does it make sense? Anyway, it's quite fun to look at those repos after years 😅. Greetings to colleagues from Fream and Bioinformatics 😎
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
