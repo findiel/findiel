@@ -7,6 +7,7 @@
   - I love sailing, swimming and water ⛵
   - I'm a board games and video games freak 🎲 🎮 👾
   - I enjoy sci-fi and fantasy books 📖 🧙‍♂️🐉 🚀 🪐
+  - More info on my ![website](https://bartlomiejtuchowski.pl)
 
 ### Non-commercial projects:
 
